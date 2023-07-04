@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: cornsilk;
+}
+
+table {
+    border: 5px solid paleturquoise;
+    margin: 0 auto;
+    width: 750px;
+}
+
+thead {
+    background-color: lightskyblue;
+}
+
+td {
+    border-top: 1px solid darkgrey;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: rgb(83, 155, 200);
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 65px;
+    letter-spacing: 3px;
+    color: rgb(58, 123, 163);
+    margin: 0 auto;
+}
+
+.banner {
+    background-color: white
+
+}
